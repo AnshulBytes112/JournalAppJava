@@ -29,7 +29,7 @@ It features **JWT-based authentication**, **role-based access control**, and **A
   - Spring Data JPA
   - Spring Security (JWT Authentication)
 - **Apache Kafka** (event-driven architecture)
-- **PostgreSQL** (data persistence)
+- **MongoDB** (data storage)
 - **Maven** (build tool)
 
 ---
@@ -39,7 +39,7 @@ It features **JWT-based authentication**, **role-based access control**, and **A
 ### Prerequisites
 - **Java 17+**
 - **Maven**
-- **PostgreSQL**
+- **MongoDB**
 - **Apache Kafka & Zookeeper**
 
 ### Installation
